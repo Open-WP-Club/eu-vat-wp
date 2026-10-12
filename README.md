@@ -90,6 +90,22 @@ A: The plugin considers products of type 'digital', 'downloadable', or 'virtual'
 **Q: Does this plugin handle VAT MOSS (Mini One Stop Shop) reporting?**
 A: The current version does not include VAT MOSS reporting features. This may be added in future updates.
 
+<!-- OPENWPCLUB_SPONSORS_START -->
+## Open-source supporters
+
+These companies help keep Open WP Club plugins free and maintained.
+
+[![Open WP Club supporters](https://openwpclub.com/sponsorship/supporters.png)](https://openwpclub.com/sponsors/)
+
+## Sponsored placements
+
+Clearly labelled promotional campaigns, separate from our supporters.
+
+[![Open WP Club sponsored placements](https://openwpclub.com/sponsorship/repos/eu-vat-wp/campaigns.png)](https://openwpclub.com/advertise/)
+
+[Support our work](https://openwpclub.com/sponsors/) · [Discuss a campaign](https://openwpclub.com/advertise/)
+<!-- OPENWPCLUB_SPONSORS_END -->
+
 ## Support
 
 For support, feature requests, or bug reports, please open an issue on the plugin's GitHub repository.
